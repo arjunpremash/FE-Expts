@@ -1,0 +1,21 @@
+body {
+    background-color: #121212;
+}
+
+h1 {
+    color: aliceblue;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+p {
+    color: antiquewhite;
+}
+
+a {
+    color: aquamarine;
+}
+
+a#source {
+    color: skyblue;
+}
